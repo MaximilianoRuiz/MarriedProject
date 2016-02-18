@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MarriedProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_novios">ActivityNovios</string>
+    <string name="title_activity_activity_invitados">ActivityInvitados</string>
+    <string name="title_activity_activiy_invitados">ActiviyInvitados</string>
+</resources>
